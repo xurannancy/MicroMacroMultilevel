@@ -1,0 +1,11 @@
+d182f9a346cfa4f0b3ab610f5ec533ec *DESCRIPTION
+83be6d9cf2d9314cd0ef9b43b9386673 *NAMESPACE
+f240b5429b2f08e248a6f870459e711f *R/Examples/adjustedpredictorsExample2.r
+fb625e74a84a713aa0f3b1c6dcf70760 *R/Examples/micromacrolmExample2.r
+33ad5b51d748ac0c6e7827362e0ea90f *R/adjustedpredictors2.r
+eca48ce54745df47d740e01c9f288d2f *R/micromacrolm2.r
+b178468d78a5d6aaf9d4ab13990deb54 *R/summarymlm2.r
+7ef22abcadd0171a1583e21468eb8c15 *README.md
+305f5e3ab8c39d05d963fdf8f08d15b5 *man/adjusted.predictors.Rd
+a4bea3d0e961f981215ebc6a3a5aaf22 *man/micromacro.lm.Rd
+3b3c435a09421d215f6a0eef0c10e950 *man/micromacro.summary.Rd
